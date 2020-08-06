@@ -1,0 +1,3 @@
+rootProject.name='ICrashSDK'
+include ':app'
+include ':icrash'
